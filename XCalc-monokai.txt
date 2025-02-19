@@ -1,0 +1,235 @@
+XCalc*faceName: -gnu-unifont-medium-r-normal-sans-16-160-75-75-c-80-iso10646-1
+
+XCalc*background: #272822
+XCalc*foreground: black
+
+XCalc*.bevel.screen*background:	#f7f8f2
+XCalc*.bevel.screen.borderColor:	gray50
+XCalc*.bevel.screen*LCD.foreground:	gray20
+XCalc*.bevel.background:		gray80
+XCalc*.bevel.borderColor:		gray60
+
+#XCalc*ti.Command.shapeStyle:		roundedRectangle
+#XCalc*ti.Command.displayList:		foreground rgb:a/b/c;
+
+#XCalc*ti.Command.borderColor:		rgb:8/9/a
+#XCalc*ti.Command.background:		rgb:c/d/e
+#XCalc*ti.Command.foreground:		gray5
+
+XCalc*ti.button1.background:		#272822
+XCalc*ti.button1.foreground:		#f7f8f2
+XCalc*ti.button1.borderColor:		#76715f
+
+XCalc*ti.button2.background:		#272822
+XCalc*ti.button2.foreground:		#f7f8f2
+XCalc*ti.button2.borderColor:		#76715f
+
+XCalc*ti.button3.background:		#272822
+XCalc*ti.button3.foreground:		#f7f8f2
+XCalc*ti.button3.borderColor:		#76715f
+
+XCalc*ti.button4.background:		#f92772
+XCalc*ti.button4.borderColor:		#76715f
+
+XCalc*ti.button5.background:		#272822
+XCalc*ti.button5.foreground:		#f92772
+XCalc*ti.button5.borderColor:		#76715f
+
+XCalc*ti.button6.background:		#272822
+XCalc*ti.button6.foreground:		#66d9ee
+XCalc*ti.button6.borderColor:		#76715f
+
+XCalc*ti.button7.background:		#272822
+XCalc*ti.button7.foreground:		#f7f8f2
+XCalc*ti.button7.borderColor:		#76715f
+
+XCalc*ti.button8.background:		#272822
+XCalc*ti.button8.foreground:		#f7f8f2
+XCalc*ti.button8.borderColor:		#76715f
+
+XCalc*ti.button9.background:		#272822
+XCalc*ti.button9.foreground:		#f7f8f2
+XCalc*ti.button9.borderColor:		#76715f
+
+XCalc*ti.button10.background:		#272822
+XCalc*ti.button10.foreground:		#a1eee4
+XCalc*ti.button10.borderColor:		#76715f
+
+XCalc*ti.button11.background:		#272822
+XCalc*ti.button11.foreground:		#f7f8f2
+XCalc*ti.button11.borderColor:		#76715f
+
+XCalc*ti.button12.background:		#272822
+XCalc*ti.button12.foreground:		#f7f8f2
+XCalc*ti.button12.borderColor:		#76715f
+
+XCalc*ti.button13.background:		#272822
+XCalc*ti.button13.foreground:		#f7f8f2
+XCalc*ti.button13.borderColor:		#76715f
+
+XCalc*ti.button14.background:		#272822
+XCalc*ti.button14.foreground:		#f7f8f2
+XCalc*ti.button14.borderColor:		#76715f
+
+XCalc*ti.button15.background:		#272822
+XCalc*ti.button15.foreground:		#f7f8f2
+XCalc*ti.button15.borderColor:		#76715f
+
+XCalc*ti.button16.background:		#272822
+XCalc*ti.button16.foreground:		#f7f8f2
+XCalc*ti.button16.borderColor:		#76715f
+
+XCalc*ti.button17.background:		#272822
+XCalc*ti.button17.foreground:		#f7f8f2
+XCalc*ti.button17.borderColor:		#76715f
+
+XCalc*ti.button18.background:		#272822
+XCalc*ti.button18.foreground:		#f7f8f2
+XCalc*ti.button18.borderColor:		#76715f
+
+XCalc*ti.button19.background:		#272822
+XCalc*ti.button19.foreground:		#f7f8f2
+XCalc*ti.button19.borderColor:		#76715f
+
+XCalc*ti.button20.background:		#272822
+XCalc*ti.button20.foreground:		#f7f8f2
+XCalc*ti.button20.borderColor:		#76715f
+
+XCalc*ti.button21.background:		#272822
+XCalc*ti.button21.foreground:		#f7f8f2
+XCalc*ti.button21.borderColor:		#76715f
+
+XCalc*ti.button22.background:		#272822
+XCalc*ti.button22.foreground:		#f7f8f2
+XCalc*ti.button22.borderColor:		#76715f
+
+XCalc*ti.button23.background:		#272822
+XCalc*ti.button23.foreground:		#f7f8f2
+XCalc*ti.button23.borderColor:		#76715f
+
+XCalc*ti.button24.background:		#272822
+XCalc*ti.button24.foreground:		#f7f8f2
+XCalc*ti.button24.borderColor:		#76715f
+
+XCalc*ti.button25.background:		#272822
+XCalc*ti.button25.foreground:		#a1eee4
+XCalc*ti.button25.borderColor:		#76715f
+
+XCalc*ti.button26.background:		#272822
+XCalc*ti.button26.foreground:		#f7f8f2
+XCalc*ti.button26.borderColor:		#76715f
+
+XCalc*ti.button27.background:		#f7f8f2
+XCalc*ti.button27.foreground:		#76715e
+XCalc*ti.button27.borderColor:		#76715f
+
+XCalc*ti.button28.background:		#f7f8f2
+XCalc*ti.button28.foreground:		#76715e
+XCalc*ti.button28.borderColor:		#76715f
+
+XCalc*ti.button29.background:		#f7f8f2
+XCalc*ti.button29.foreground:		#76715e
+XCalc*ti.button29.borderColor:		#76715f
+
+XCalc*ti.button30.background:		#272822
+XCalc*ti.button30.foreground:		#f7f8f2
+XCalc*ti.button30.borderColor:		#76715f
+
+XCalc*ti.button31.background:		#272822
+XCalc*ti.button31.foreground:		#f7f8f2
+XCalc*ti.button31.borderColor:		#76715f
+
+XCalc*ti.button32.background:		#f7f8f2
+XCalc*ti.button32.foreground:		#76715e
+XCalc*ti.button32.borderColor:		#76715f
+
+XCalc*ti.button33.background:		#f7f8f2
+XCalc*ti.button33.foreground:		#76715e
+XCalc*ti.button33.borderColor:		#76715f
+
+XCalc*ti.button34.background:		#f7f8f2
+XCalc*ti.button34.foreground:		#76715e
+XCalc*ti.button34.borderColor:		#76715f
+
+XCalc*ti.button35.background:		#66d9ee
+XCalc*ti.button35.foreground:		#272822r
+XCalc*ti.button35.borderColor:		#76715f
+
+XCalc*ti.button36.background:		#272822
+XCalc*ti.button36.foreground:		#ae82fe
+XCalc*ti.button36.borderColor:		#76715f
+
+XCalc*ti.button37.background:		#f7f8f2
+XCalc*ti.button37.foreground:		#76715e
+XCalc*ti.button37.borderColor:		#76715f
+
+XCalc*ti.button38.background:		#f7f8f2
+XCalc*ti.button38.foreground:		#76715e
+XCalc*ti.button38.borderColor:		#76715f
+
+XCalc*ti.button39.background:		#f7f8f2
+XCalc*ti.button39.foreground:		#76715e
+XCalc*ti.button39.borderColor:		#76715f
+
+XCalc*ti.button40.background:		#66d9ee
+XCalc*ti.button40.foreground:		#272822
+XCalc*ti.button40.borderColor:		#76715f
+
+XCalc*ti.button41.background:		#272822
+XCalc*ti.button41.foreground:		#ae82fe
+XCalc*ti.button41.borderColor:		#76715f
+
+XCalc*ti.button42.background:		#f7f8f2
+XCalc*ti.button42.foreground:		#76715e
+XCalc*ti.button42.borderColor:		#76715f
+
+XCalc*ti.button43.background:		#f7f8f2
+XCalc*ti.button43.foreground:		#76715e
+XCalc*ti.button43.borderColor:		#76715f
+
+XCalc*ti.button44.background:		#f7f8f2
+XCalc*ti.button44.foreground:		#76715e
+XCalc*ti.button44.borderColor:		#76715f
+
+XCalc*ti.button45.background:		#66d9ee
+XCalc*ti.button45.foreground:		#272822
+XCalc*ti.button45.borderColor:		#76715f
+
+XCalc*ti.button46.background:		#272822
+XCalc*ti.button46.foreground:		#ae82fe
+XCalc*ti.button46.borderColor:		#76715f
+
+XCalc*ti.button47.background:		#f7f8f2
+XCalc*ti.button47.foreground:		#76715e
+XCalc*ti.button47.borderColor:		#76715f
+
+XCalc*ti.button48.background:		#f7f8f2
+XCalc*ti.button48.foreground:		#76715e
+XCalc*ti.button48.borderColor:		#76715f
+
+XCalc*ti.button49.background:		#f7f8f2
+XCalc*ti.button49.foreground:		#76715e
+XCalc*ti.button49.borderColor:		#76715f
+
+XCalc*ti.button50.background:		#66d9ee
+XCalc*ti.button50.foreground:		#272822
+XCalc*ti.button50.borderColor:		#76715f
+
+XCalc*ti.button51.background:		#272822
+XCalc*ti.button51.foreground:		#ae82fe
+XCalc*ti.button51.borderColor:		#76715f
+
+XCalc*ti.button52.background:		#f7f8f2
+XCalc*ti.button52.foreground:		#76715e
+XCalc*ti.button52.borderColor:		#76715f
+
+XCalc*ti.button53.background:		#f7f8f2
+XCalc*ti.button53.foreground:		#76715e
+XCalc*ti.button53.borderColor:		#76715f
+
+XCalc*ti.button54.background:		#f7f8f2
+XCalc*ti.button54.foreground:		#76715e
+XCalc*ti.button54.borderColor:		#76715f
+
+XCalc*ti.button55.background:		#a7e22e
+XCalc*ti.button55.borderColor:		#76715f
